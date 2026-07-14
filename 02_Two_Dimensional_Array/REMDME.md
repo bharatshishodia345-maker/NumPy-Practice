@@ -56,6 +56,25 @@ print(array_2d)
 ```
 
 ---
+### Example 2
+
+```python
+import numpy as np
+
+array_2d = np.array([
+    [55, 45, 63],
+    [8, 6, 4]
+])
+
+print(array_2d)
+```
+
+Output
+
+```
+[[55 45 63]
+ [ 8  6  4]]
+```
 
 ## Learning Outcome
 
